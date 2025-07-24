@@ -1,0 +1,9 @@
+Name,Age,Gender,Salary,JoinDate,City
+ Alice ,25.0,F,50000.0,2021-01-15,New York
+BOB,30.0,M,60000.0,2020-06-23,new york
+alice,,f,50000.0,2021-01-15,Los Angeles
+Bob,30.0,Male,,2020/06/23,LOS ANGELES
+Charlie,22.0,F,45000.0,not available,San Francisco
+,29.0,M,58000.0,2019-12-01,SAN FRANCISCO
+Eve,35.0,Female,62000.0,,
+eve,,female,-999.0,2022-05-18,new york
